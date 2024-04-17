@@ -13,8 +13,8 @@ namespace Задание_2_для_Skillbox
         static void Main(string[] args)
         {
             // Отображение сообщения в консольном окне.
-            Console.Write("Hello\n");
-            Console.Write("World\n");
+            Console.Write("Hello ");
+            Console.Write("World ");
             Console.Write("!!!");
             // Задержка приложения.
             Console.ReadKey();
