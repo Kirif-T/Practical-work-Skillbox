@@ -1,1 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace Задание_2_для_Skillbox
+{
+    // Главный класс программы.
+    class Program
+    {
+        // Главный метод программы.
+        static void Main(string[] args)
+        {
+            // Отображение сообщения в консольном окне.
+            Console.Write("Hello\n");
+            Console.Write("World\n");
+            Console.Write("!!!");
+            // Задержка приложения.
+            Console.ReadKey();
+        }
+    }
+}
