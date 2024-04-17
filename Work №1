@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Начало
+    //Главный класс программы.
+{
+    class Program
+        //Главный метод программы.
+    {
+        static void Main(string[] args)
+            //Отображение сообщения в консольном окне.
+        {
+            Console.WriteLine("Hello, World!!!");
+            // Задержка приложения.
+            Console.ReadKey();
+        }
+    }
+}
